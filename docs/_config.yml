@@ -3,5 +3,5 @@ title: [The title of your site]
 description: [A short description of your site's purpose]
 
 # Build Settings
-remote_theme: saxenaapeksha/minimal
+remote_theme: saxenaapeksha/minimal-1
 markdown: kramdown
