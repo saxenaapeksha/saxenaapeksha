@@ -1,4 +1,6 @@
 ### Hi there 👋
+Everything programmable around Apeksha Saxena.
+Bachelor of computer science and engineering. She is a seasoned programmer, problem solver, technology enthusiast. She can speak in Java, React JS. She is a Product Lead at CellPoint digital. She loves travelling and Call Of Duty mobile.
 
 <!--
 **saxenaapeksha/saxenaapeksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
