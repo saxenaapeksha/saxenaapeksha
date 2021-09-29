@@ -4,6 +4,7 @@
 # markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
+  - jekyll-avatar
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -46,7 +47,7 @@ defaults:
 
 author:
   name: "Your Name"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: {% avatar saxenaapeksha %}
   bio: "I am an **amazing** person." # Note: Markdown is allowed
   location: "Somewhere"
   links:
