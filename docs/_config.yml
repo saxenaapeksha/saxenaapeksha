@@ -50,13 +50,9 @@ defaults:
 
 
 author:
-  name: ""
+  name: "Apeksha Saxena"
   avatar: "https://avatars.githubusercontent.com/u/28886101?s=400&u=a64fb47041410b960aca0b543e6e4066de5aeaea&v=4"
   bio: "A Pragmatist who turned into **Code Enthusiast**"
-       "Self Absorbed"
-       "Rookie in *Battlefield*"
-       "Veteran in *Call Of Duty Mobile*"
-       "Guitar Player"
   location: "Somewhere"
   links:
     - label: "Made Mistakes"
