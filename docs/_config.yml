@@ -1,9 +1,9 @@
 
-title: [The title of your site]
-description: [A short description of your site's purpose]
+#title: [The title of your site]
+#description: [A short description of your site's purpose]
 
 # Build Settings
-markdown: kramdown
+# markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 #saxenaapeksha/minimal-1
 #plugins:
