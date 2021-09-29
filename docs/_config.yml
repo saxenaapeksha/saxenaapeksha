@@ -19,7 +19,7 @@ include: ["_pages"]
 # Theme Settings
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 locale: "en-US"
-title: [{Girl Who Codes};]
+title: ["{Girl Who Codes};"]
 subtitle: "Version 1.0"
 description: [Everything Programmable Around Apeksha Saxena]
 name: "Apeksha Saxena"
