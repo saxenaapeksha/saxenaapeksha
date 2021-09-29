@@ -68,7 +68,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mmistakes"
     - label: "stackoverflow"
-      icon: "fab fa-stack-overflow"
+      icon: "fab fa-fw fa-stack-overflow"
       url: "https://instagram.com/mmistakes"
 
 category_archive:
