@@ -2,7 +2,7 @@
 
 # Build Settings
 markdown: kramdown
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-avatar
   - jekyll-paginate
