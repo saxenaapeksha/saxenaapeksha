@@ -52,10 +52,11 @@ defaults:
 author:
   name: "Apeksha Saxena"
   avatar: "https://avatars.githubusercontent.com/u/28886101?s=400&u=a64fb47041410b960aca0b543e6e4066de5aeaea&v=4"
-  bio: "A Pragmatist who turned into Code **Enthusiast**"
+  bio: "A Pragmatist who turned into **Code Enthusiast**"
        "Self Absorbed"
-       "Rookie in Battlefield"
-       "Veteran in Call Of Duty Mobile"
+       "Rookie in *Battlefield*"
+       "Veteran in *Call Of Duty Mobile*"
+       "Guitar Player"
        "" # Note: Markdown is allowed
   location: "Somewhere"
   links:
