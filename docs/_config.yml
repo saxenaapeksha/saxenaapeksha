@@ -1,7 +1,7 @@
 
 
 # Build Settings
-# markdown: kramdown
+markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-avatar
@@ -11,6 +11,10 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+
+include: ["_pages"]
+
 
 # Theme Settings
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
