@@ -1,8 +1,16 @@
 
-#title: [The title of your site]
-#description: [A short description of your site's purpose]
 
 # Build Settings
 # markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+
+# Theme Settings
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+locale: "en-US"
+title: [The title of your site]
+subtitle: "Version 2.0"
+description: [A short description of your site's purpose]
+name: "Apeksha Saxena"
+url: "https://apekshasaxena.com"
+repository: "saxenaapeksha/saxenaapeksha"
