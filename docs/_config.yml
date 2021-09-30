@@ -17,7 +17,7 @@ include: ["_pages"]
 
 
 # Theme Settings
-minimal_mistakes_skin: "plum" # "neon", "aqua", "air", "contrast", "dark", "neon", "mint", "dirt" "sunrise"
+minimal_mistakes_skin: "default" # "neon", "aqua", "air", "contrast", "dark", "neon", "mint", "dirt" "sunrise"
 locale: "en-US"
 title: ["{Immature Programmer};"]
 subtitle: "Version 1.0"
