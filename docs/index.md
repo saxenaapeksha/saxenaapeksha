@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/28886101/135435820-52c54b33-4832-49c2-8212-58bc89fac350.jpg" width="100" height="100">
+![InShot_20210930_142334032](https://user-images.githubusercontent.com/28886101/135451873-68cb968e-b53c-49b7-9b12-1e84e8e8666c.jpg)
 ## Everything programmable around Apeksha Saxena.                                                                                                                                                                                                                          
 Bachelor of Computer Science and Engineering. She is a seasoned programmer, problem solver, technology enthusiast. 
 She can speak in Java, React JS. She is a Product Lead at CellPoint digital. She loves travelling and Call Of Duty mobile.
