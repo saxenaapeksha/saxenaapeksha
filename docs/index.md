@@ -5,18 +5,14 @@
 - She can speak in Java, React JS. She is a Product Lead at CellPoint digital. 
 - She loves travelling and Call Of Duty mobile.
 <br>
+
+
 ### Work History
-<p><img align="left" alt="CellPointDigital" width="70px" src="https://user-images.githubusercontent.com/28886101/135451654-e1071a1c-95b9-4c03-83c6-9a55a90841c6.png"/> - Product Lead, Cell Point Digital Inc, Pune — July 2021-Present <br>
-                    - Senior Software Developer, Cell Point Digital Inc, Pune — July 2019 - July 2021 <br>
-                    - Software Developer, Cell Point Digital Inc, Pune — Sept 2017 - July 2019 </br> </p>
-                    <br>
-                     
-<p>
-<img align="left" alt="Cognizant" width="80px" src="https://user-images.githubusercontent.com/28886101/135456928-a6e78698-e176-4995-941e-d772fad733ff.png"/>   Programmer Analyst, Cognizant, Pune — Feb 2013 - Sept 2017 <br>
-Programmer Trainee, Cognizant, Pune — Feb 2014 - Sept 2015 <br> </p>
+***CellPoint Digital, Pune*** : 
+We Optimise and orchestrate all your digital payments. We have 410+ payment options available today.
+![InShot_20210930_202008168](https://user-images.githubusercontent.com/28886101/135478979-4d2faa41-5ae3-4223-8002-41c610c4baf1.jpg)
 
 
-<br>
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/saxenaapeksha/saxenaapeksha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxenaapeksha&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
