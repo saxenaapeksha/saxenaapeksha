@@ -1,4 +1,2 @@
-![InShot_20210930_142334032](https://user-images.githubusercontent.com/28886101/135424929-f12391b4-a7fc-48af-b093-c0fa0c172683.jpg?v=4&s=200)
-
+<img src="https://user-images.githubusercontent.com/28886101/135435820-52c54b33-4832-49c2-8212-58bc89fac350.jpg" width="100" height="100">
 # 01 Skills
-
