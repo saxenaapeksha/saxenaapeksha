@@ -1,6 +1,6 @@
 <h4> Hey there! <img src="https://user-images.githubusercontent.com/28886101/135488255-403e3c02-1bdc-4582-b856-d18403ca647e.gif" width="30px"></h4>
 
-*I'm [Apeksha Saxena](https://github.com/saxenaapeksha).* :) 
+*I'm [Apeksha Saxena](https://github.com/saxenaapeksha).* ( ͡👁️ ͜ʖ ͡👁️)
 
 
 ## Everything programmable around Apeksha Saxena.                                                                                                                 <br>
