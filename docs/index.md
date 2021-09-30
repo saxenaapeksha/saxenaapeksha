@@ -8,9 +8,15 @@
 
 
 ### Work History
-***CellPoint Digital, Pune*** : 
+***• CellPoint Digital, Pune*** : 
 We Optimise and orchestrate all your digital payments. We have 410+ payment options available today.
 ![InShot_20210930_202008168](https://user-images.githubusercontent.com/28886101/135478979-4d2faa41-5ae3-4223-8002-41c610c4baf1.jpg)
+<br>
+<br>
+***• Cognizant, Pune*** : 
+<br>
+Cognizant provides exceptional web development services to the clients across the globe.
+![InShot_20210930_204708038](https://user-images.githubusercontent.com/28886101/135483843-7a31a93e-963a-4a32-bbf6-44be18d41fdb.jpg)
 
 
 ### &#x1f4c8; GitHub Stats
