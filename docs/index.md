@@ -14,9 +14,9 @@
 <p>
 <img align="left" alt="Cognizant" width="80px" src="https://user-images.githubusercontent.com/28886101/135456928-a6e78698-e176-4995-941e-d772fad733ff.png"/>   Programmer Analyst, Cognizant, Pune — Feb 2013 - Sept 2017 <br>
 Programmer Trainee, Cognizant, Pune — Feb 2014 - Sept 2015 <br> </p>
-</br> 
 
-<br></br>
+
+<br>
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/saxenaapeksha/saxenaapeksha">
   <img align="center" width="80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxenaapeksha&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -26,7 +26,7 @@ Programmer Trainee, Cognizant, Pune — Feb 2014 - Sept 2015 <br> </p>
 </a>
 
 
-<br></br>
+<br>
 ### Languages and Tools
 
 <img align="left" alt="Java" width="35px" src="https://user-images.githubusercontent.com/28886101/135459117-25364758-9dc2-4b44-9618-03dd839d91d0.gif" />
