@@ -11,7 +11,7 @@
 
 ### Talking about Me: <img src="https://user-images.githubusercontent.com/28886101/135500059-eaf6a670-5471-4344-a9b7-da38a5d916e1.jpg" width="50px">
 
-*- 🛠 &nbsp; I’m currently working with Java, Data Strucute, React JS. <br>*
+*- 🛠 &nbsp; I’m currently working with Java, Data Structure, React JS. <br>*
 *- 🚀 &nbsp; I'm currently learning System Design.<br>*
 *- 👨🏻‍💻 &nbsp; Working on data Structures and LeetCode Challenges, code will soon be available at [My Github Repository](https://github.com/saxenaapeksha/saxenaapeksha/edit/main/docs/index.md).<br>*
 *- 👾 &nbsp; Fun fact: <img src="https://user-images.githubusercontent.com/28886101/135493599-6b2c0975-87a8-4aec-bf8c-a257d883767b.png" width="50px"> It's funny because it's true.<br>*
