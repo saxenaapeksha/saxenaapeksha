@@ -19,7 +19,7 @@
 *- 📝 &nbsp; Checkout my [Resume](https://github.com/saxenaapeksha/saxenaapeksha/files/7261112/Apeksha.Resume.pdf)<br>*
 
 
-### Let's see my Work Journey.
+### Let's see my Work Journey ✍(◔◡◔)
 ***• CellPoint Digital, Pune*** : 
 *We Optimise and orchestrate all your digital payments. We have 410+ payment options available today.*
 ![InShot_20210930_202008168](https://user-images.githubusercontent.com/28886101/135478979-4d2faa41-5ae3-4223-8002-41c610c4baf1.jpg)
