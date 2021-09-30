@@ -3,7 +3,7 @@
 *I'm [Apeksha Saxena](https://github.com/saxenaapeksha).* ( ͡👁️ ͜ʖ ͡👁️)
 
 
-## Everything programmable around Apeksha Saxena.                                                                                                                 <br>
+## Everything programmable around Apeksha Saxena ジ                                                                                                                <br>
 *Bachelor of computer science and engineering. She is a seasoned programmer, problem solver, technology enthusiast. She can speak in Java, React JS. She is a Product Lead at CellPoint digital. She loves travelling and Call Of Duty mobile.*
 
 ![InShot_20210930_142334032](https://user-images.githubusercontent.com/28886101/135451873-68cb968e-b53c-49b7-9b12-1e84e8e8666c.jpg)
@@ -31,14 +31,14 @@
 ![InShot_20210930_204708038](https://user-images.githubusercontent.com/28886101/135483843-7a31a93e-963a-4a32-bbf6-44be18d41fdb.jpg)
 
 
-### GitHub Stats
+### GitHub Stats ✔
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saxenaapeksha&count_private=true&show_icons=true&theme=dracula&line_height=33">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxenaapeksha&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
 </p>
 
 <br>
-### Languages and Tools
+### Languages and Tools ヽ（・＿・；)ノ
 
 <img align="left" alt="Java" width="35px" src="https://user-images.githubusercontent.com/28886101/135459117-25364758-9dc2-4b44-9618-03dd839d91d0.gif" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
