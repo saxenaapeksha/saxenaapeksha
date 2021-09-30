@@ -31,7 +31,7 @@ repository: "saxenaapeksha/saxenaapeksha"
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "https://github.com/saxenaapeksha/saxenaapeksha/blob/f7e3861fcf077dae2f998ded06939d4180cd90ee/docs/_posts/2021-09-28-my-first-post.md"
       type: posts
     values:
       layout: single
