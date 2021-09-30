@@ -20,7 +20,7 @@ include: ["_pages"]
 minimal_mistakes_skin: "default" # "neon", "aqua", "air", "contrast", "dark", "neon", "mint", "dirt" "sunrise"
 locale: "en-US"
 title: ["{Immature Programmer};"]
-subtitle: "Version 1.0"
+subtitle: "from Will to Skill"
 description: [Everything Programmable Around Apeksha Saxena]
 name: "Apeksha Saxena"
 url: "https://apekshasaxena.com"
