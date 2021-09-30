@@ -39,8 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxenaapeksha&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
 </p>
 
-<br>
-### Languages and Tools<img src="https://user-images.githubusercontent.com/28886101/135501066-81b44baf-4792-45e4-9797-f9e66ffa3a43.png" width="50px">
+### Languages and Tools<img src="https://user-images.githubusercontent.com/28886101/135505767-cb1c3043-f997-4c07-b535-14ff21001bf2.jpeg" width="70px">
 <img align="left" alt="Java" width="50px" src="https://user-images.githubusercontent.com/28886101/135459117-25364758-9dc2-4b44-9618-03dd839d91d0.gif" />
 <img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -48,6 +47,7 @@
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <br>
-<br><img src="https://user-images.githubusercontent.com/28886101/135504015-d4a8d8d5-d3e7-4cc8-bf17-93085f047666.png" width="200px">
-*I love connecting with different people so if you want to say hi, I'll be happy to meet you more!*
+<br>
+##### *I love connecting with different people <img src="https://user-images.githubusercontent.com/28886101/135504015-d4a8d8d5-d3e7-4cc8-bf17-93085f047666.png" width="200px">so if you want to say hi, I'll be happy to meet you more!*
+<br>
 *Show ❤️ by starring and forking repositories you find good!*
