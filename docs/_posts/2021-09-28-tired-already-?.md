@@ -7,7 +7,7 @@
 <sub>Is it true ¯\_( ͡❛ ͜ʖ ͡❛)_/¯ ?
 Well I have done a hell lot of mistakes in my life and one of them was not realizing the power of "***CODING***" earlier.
 
-<sub>When I was in college, I was like any other person who eat, sleep, ~~rave~~ netflix <img src="https://user-images.githubusercontent.com/28886101/135523817-4bd1041a-17d5-4759-bbd2-767d1a552009.jpg" width="20"> & repeat. 
+<sub>When I was in college, I was like any other person who eat, sleep, ~~rave~~ netflix <img src="https://user-images.githubusercontent.com/28886101/135523817-4bd1041a-17d5-4759-bbd2-767d1a552009.jpg" width="20"> & repeat. Feel was the same though as Netflix was not launched in India at that time.
 But I was not aware that this may turn myself into a person who does not like to work or study or learn new things.
 A person who is lazy and ir-responsible. A person with no aim. Direction-less. ¯\_( ͡👁️ ͜ʖ ͡👁️)_/¯
 
@@ -70,7 +70,7 @@ Got demotivated and left it. ***Another Mistake***.
 
 <sub>I heared things in my mind again few days later and started learning again. This time easy questions felt like medium level.
 Medium were hard and still feels like.
-Studided a book called ***Cracking the Coding Interview by Gayle LaakMan*** which takes approxiately 20 days to finish but in may case it took 60 as I started from scratch.
+Studied a book called ***Cracking the Coding Interview by Gayle LaakMan*** which takes approxiately 20 days to finish but in may case it took 60 as I started from scratch.
 
 <sub>Had completed around 120+ questions from GeeksforGeeks and finally thought to level up and start practicing Leetcode.
 And here I realized <img src="https://user-images.githubusercontent.com/28886101/135530305-e185804e-a85f-4eb0-a250-e2a59a56d17b.png" width="50">I made a mistake again. I started with GeeksforGeeks where in I should have started with Leetcode.
