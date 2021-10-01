@@ -1,7 +1,5 @@
 <h4> Hey there! <img src="https://user-images.githubusercontent.com/28886101/135488255-403e3c02-1bdc-4582-b856-d18403ca647e.gif" width="30px"></h4>
-
 *I'm [Apeksha Saxena](https://github.com/saxenaapeksha).* ( ͡👁️ ͜ʖ ͡👁️)
-
 ## Everything programmable around <img src="https://user-images.githubusercontent.com/28886101/135498712-19c780b1-a99f-4725-a42c-4f3a60532078.jpeg" width="70px"> Apeksha Saxena  
 <br>
 <sub>*Bachelor of computer science and engineering. She is a seasoned programmer, problem solver, technology enthusiast. She can speak in Java, React JS. She is a Product Lead at CellPoint digital. She loves travelling and Call Of Duty mobile.*</sub>
@@ -51,4 +49,4 @@
 
 ##### <sub>*I love connecting with different people <img src="https://user-images.githubusercontent.com/28886101/135504015-d4a8d8d5-d3e7-4cc8-bf17-93085f047666.png" width="200px">so if you want to say hi, I'll be happy to meet you more!*
 <br>
-*Show ❤️ by starring and forking repositories you find good!*
+<sub>*Show ❤️ by starring and forking repositories you find good!*
