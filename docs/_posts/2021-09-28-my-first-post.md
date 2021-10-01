@@ -1,6 +1,3 @@
----
-permalink: /2021-09-28-my-first-post.html
----
 ## <img src="https://user-images.githubusercontent.com/28886101/135533057-8fd876c8-2e8f-46bc-840e-bdfbef66e67e.jpg" width="80">&nbsp;&nbsp;Made Mistakes&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/28886101/135533320-81cc7a4a-e552-421f-88a7-809f9ea09244.jpg" width="60">
 *by Apeksha Saxena*
 
