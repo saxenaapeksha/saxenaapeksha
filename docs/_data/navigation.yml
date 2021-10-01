@@ -1,7 +1,7 @@
 main:  
     - title: "Posts"
     url: /year-archive/
- <!--- - title: "Projects"
+ <!-- -title: "Projects"
     url: /projects/
   - title: "Categories"
     url: /categories/
@@ -12,4 +12,4 @@ main:
   - title: "Collections"
     url: /collection-archive/
   - title: "External Link"
-    url: https://google.com-->
+    url: https://google.com -->
