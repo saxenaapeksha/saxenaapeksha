@@ -89,3 +89,10 @@ I hope people who are reading this may get their direction soon 🌞.
 <br>
 ***Happy Reading !!*** ٩(˘◡˘)۶
 <br>
+<script src="https://utteranc.es/client.js"
+        repo="https://github.com/saxenaapeksha/saxenaapeksha"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
