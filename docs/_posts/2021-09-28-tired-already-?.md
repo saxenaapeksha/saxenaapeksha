@@ -9,7 +9,7 @@ Well I have done a hell lot of mistakes in my life and one of them was not reali
 
 <sub>When I was in college, I was like any other person who eat, sleep, ~~rave~~ netflix <img src="https://user-images.githubusercontent.com/28886101/135523817-4bd1041a-17d5-4759-bbd2-767d1a552009.jpg" width="20"> & repeat. Feel was the same though as Netflix was not launched in India at that time.
 But I was not aware that this may turn myself into a person who does not like to work or study or learn new things.
-A person who is lazy and ir-responsible. A person with no aim. Direction-less. ¯\_( ͡👁️ ͜ʖ ͡👁️)_/¯
+A person who is lazy and irresponsible. A person with no aim. Direction-less. ¯\_( ͡👁️ ͜ʖ ͡👁️)_/¯
 
 <sub>When my friends were getting married or getting a new job I was frustating on myself seeing their status & posts on <img src="https://user-images.githubusercontent.com/28886101/135524061-01516e19-5613-496a-8019-aaa8004ef510.png" width="10">acebook.
 At one point of time I even de-activated my Fb account because let's agree we all went through that phase when everyone else is happy and you are not because you are suffering from  "*DUSRO KI KHUSHI.COM PROBLEM*"【 ❛︠ ෴ ︡❛】 .
@@ -70,10 +70,10 @@ Got demotivated and left it. ***Another Mistake***.
 
 <sub>I heared things in my mind again few days later and started learning again. This time easy questions felt like medium level.
 Medium were hard and still feels like.
-Studied a book called ***Cracking the Coding Interview by Gayle LaakMan*** which takes approxiately 20 days to finish but in may case it took 60 as I started from scratch.
+Studied a book called ***Cracking the Coding Interview by Gayle LaakMann*** which takes approxiately 20 days to finish but in may case it took 60 as I started from scratch.
 
 <sub>Had completed around 120+ questions from GeeksforGeeks and finally thought to level up and start practicing Leetcode.
-And here I realized <img src="https://user-images.githubusercontent.com/28886101/135530305-e185804e-a85f-4eb0-a250-e2a59a56d17b.png" width="50">I made a mistake again. I started with GeeksforGeeks where in I should have started with Leetcode.
+And here I realized <img src="https://user-images.githubusercontent.com/28886101/135530305-e185804e-a85f-4eb0-a250-e2a59a56d17b.png" width="50">I made a mistake again. I started with GeeksforGeeks wherein I should have started with Leetcode.
 Because easy from GeeksforGeeks does not exist in Leetcode. Hard from GeeksforGeeks is Easy In Leetcode so I started again ⚤.
 
 <sub>Here I learn then I forget then I learn again and it goes on and on.
