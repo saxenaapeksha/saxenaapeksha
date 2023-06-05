@@ -1,7 +1,7 @@
 Hey there! <img src="https://user-images.githubusercontent.com/28886101/135488255-403e3c02-1bdc-4582-b856-d18403ca647e.gif" width="30px">
 *I'm [Apeksha Saxena](https://github.com/saxenaapeksha).* ( ͡👁️ ͜ʖ ͡👁️)
 ## Everything programmable around <img src="https://user-images.githubusercontent.com/28886101/135498712-19c780b1-a99f-4725-a42c-4f3a60532078.jpeg" width="70px"> Apeksha Saxena  
-<sub>*Bachelor of computer science and engineering. She is a seasoned programmer, problem solver, technology enthusiast. She can speak in Java, React JS. She is a Product Lead at CellPoint digital. She loves travelling and Call Of Duty mobile.*</sub>
+<sub>*Bachelor of computer science and engineering. She is a seasoned programmer, problem solver, technology enthusiast. She can speak in Java, React JS. She is a Product Lead at Cred Avenue. She loves travelling and Call Of Duty mobile.*</sub>
 
 ![InShot_20210930_142334032](https://user-images.githubusercontent.com/28886101/135451873-68cb968e-b53c-49b7-9b12-1e84e8e8666c.jpg)
 <br>
